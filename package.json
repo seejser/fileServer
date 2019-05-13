@@ -1,0 +1,11 @@
+{
+  "name": "fileServer",
+  "version": "1.0.0",
+  "description": "koa2 file server",
+  "main": "app.js",
+  "license": "MIT",
+  "dependencies": {
+    "koa": "^2.7.0",
+    "koa-static": "^5.0.0"
+  }
+}
